@@ -1,4 +1,4 @@
-### Superstore Sales Performance Analysis
+# Superstore Sales Performance Analysis
 
  ## Project Overview
 This project presents a comprehensive **Sales Performance Dashboard** built for the Superstore dataset. 
@@ -43,7 +43,7 @@ evaluate regional performance, and provide actionable recommendations to drive g
 - **Regional Performance** (Donut + Breakdown)
 - **Top 10 Products** by Sales
 - **Profit by Sub-Category**
-- Interactive slicers (Region, Category, Segment, Order Date)
+- **Interactive slicers** (Region, Category, Segment, Order Date)
 
 
 
