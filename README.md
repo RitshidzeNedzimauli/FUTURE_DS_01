@@ -14,6 +14,7 @@ evaluate regional performance, and provide actionable recommendations to drive g
 **Tools Used**
 - **Power BI Desktop** (Main Dashboard Tool)
 - **Power Query** (Data Cleaning & Transformation)
+- **DAX** (Calculated Measures & KPIs)
 
 **Dataset**
 - **Dataset Name**: Superstore Sales Dataset
