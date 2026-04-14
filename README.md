@@ -1,22 +1,22 @@
-Superstore Sales Performance Analysis
+### Superstore Sales Performance Analysis
 
- **Project Overview**
+ ## Project Overview
 This project presents a comprehensive **Sales Performance Dashboard** built for the Superstore dataset. 
 The analysis aims to help the business understand sales trends, identify top-performing products and categories, 
 evaluate regional performance, and provide actionable recommendations to drive growth and profitability.
 
-**Business Questions Answered**
+## Business Questions Answered
 - Which products generate the most revenue?
 - How do sales change over time?
 - Which categories and regions are most profitable?
 - Where should the business focus to grow faster?
 
-**Tools Used**
+## Tools Used
 - **Power BI Desktop** (Main Dashboard Tool)
 - **Power Query** (Data Cleaning & Transformation)
 - **DAX** (Calculated Measures & KPIs)
 
-**Dataset**
+## Dataset
 - **Dataset Name**: Superstore Sales Dataset
 - **Source**: Kaggle
 - **Key Columns**: Order Date, Category, Sub-Category, Region, Sales, Profit, Segment, Product Name
