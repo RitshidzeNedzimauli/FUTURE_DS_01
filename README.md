@@ -13,7 +13,8 @@ evaluate regional performance, and provide actionable recommendations to drive g
 
 ## Tools Used
 - **Power BI Desktop** (Main Dashboard Tool)
-- **Power Query** (Data Cleaning & Transformation)
+- **Python** (Data Cleaning)
+- **Power Query** (Transformation)
 - **DAX** (Calculated Measures & KPIs)
 
 ## Dataset
